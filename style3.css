@@ -1,0 +1,83 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+hr {
+  display: inline-block;
+  width: 60.5%;
+  margin-left: 30%;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  }
+
+
+.row {
+  margin-left: 30%;
+  padding: 0%; 
+}
+
+.ogetto {
+  background-color: lightgray;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  width: 36%;
+  
+}
+.testo {
+  background-color: lightgray;
+  color: grey;
+  display: inline-block;
+  width: 50%;
+  border-bottom: 3px solid black;
+}
+.ogetto1 {
+  background-color: white;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  width: 36%; 
+}
+.testo1 {
+  background-color: white;
+  color: lightgray;
+  display: inline-block;
+  width: 50%;
+  border-bottom: 3px solid black;
+}
+h1 {
+  display: inline-block;
+  width: 86%;
+  margin-left: 30%;
+  margin-bottom: 0%;
+  padding: 0%;
+  
+}
+.form  {
+    background: transparent;
+    margin-left: 30%;
+    margin-bottom: 0%; 
+}
+
+#circle {
+      width: 40px;
+      height: 40px;
+      background: #FFA500;
+      border-radius: 50%;
+      margin-left: 39%;
+      z-index: 0;}
+#avviso {
+  font-size: 36px;
+  color: white;
+  margin-left: 30%; 
+  float: left;
+  z-index: 1;}
+
+#footername {
+  color:white;
+  margin-left: 60%; 
+  font-size: 26px;
+}
+#footersign {
+  color:white;
+  margin-left: 0%; 
+  font-size: 8px;
+  font-style: italic;
+}
